@@ -1,5 +1,7 @@
 # Heptapus Open Code Organization
 
+![Heptapus Open Code Organization](https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/QOS/main/heptapus_logo_primary.png)
+
 Heptapus Open Code Organization exists to gather people who want to build, study, improve, and
 maintain open-code systems.
 
@@ -43,6 +45,11 @@ credentials, private emails, phone numbers, or anything you would not want index
 case needs private context, say so in the issue and a maintainer can move that part to a private
 channel.
 
+## Operations & Updates
+
+- [Organization Operations board](https://github.com/orgs/Heptapus-Open-Code-Organization/projects/1)
+- [First official organization status announcement](https://github.com/Heptapus-Open-Code-Organization/.github/discussions/11)
+
 ## What We Aim To Do
 
 - Build open-code projects with clear architecture, documentation, and reproducible workflows.
@@ -85,6 +92,19 @@ be valuable without pretending to be production software.
   operating system project with a first-class quantum control-plane direction.
 
 More projects will be added as the organization grows.
+
+## Brand / Visual Identity
+
+The organization uses the Heptapus mark as its visual identity. The current GitHub organization
+avatar is the primary profile mark.
+
+Initial brand assets:
+
+- [Primary logo](https://github.com/Heptapus-Open-Code-Organization/QOS/blob/main/heptapus_logo_primary.png)
+- [Primary black logo](https://github.com/Heptapus-Open-Code-Organization/QOS/blob/main/heptapus_logo_primary_black.png)
+
+Future brand work should keep the mark recognizable, avoid misleading affiliation claims, and
+preserve readable contrast on GitHub light and dark themes.
 
 ## Community Principles
 
