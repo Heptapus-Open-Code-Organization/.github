@@ -1,6 +1,6 @@
 # Heptapus Open Code Organization
 
-![Heptapus Open Code Organization](https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/QOS/main/heptapus_logo_primary.png)
+<img src="https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/QOS/main/heptapus_logo_primary.png" alt="Heptapus Open Code Organization" width="220">
 
 Heptapus Open Code Organization exists to gather people who want to build, study, improve, and
 maintain open-code systems.
