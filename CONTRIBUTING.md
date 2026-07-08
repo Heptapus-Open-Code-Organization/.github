@@ -10,6 +10,31 @@ Thank you for wanting to contribute. This organization is for people who want to
 4. For architectural changes, read existing design notes or ADRs first.
 5. Ask before starting a large rewrite.
 
+## Finding Work
+
+Start with issues labeled `good first issue`, `help wanted`, `type:wp`, or `type:gap`.
+
+Before beginning a larger issue, leave a short comment describing the slice you plan to take. This
+helps maintainers avoid duplicate work and keeps the scope clear.
+
+If an issue is vague, improve the issue first: add acceptance criteria, affected files, risks,
+verification steps, and links to relevant docs.
+
+## Opening Issues
+
+Good issues should include:
+
+- the problem or missing capability;
+- why it matters;
+- proposed scope;
+- out-of-scope items;
+- acceptance criteria;
+- verification method;
+- related docs, ADRs, WPs, or prior issues.
+
+Do not use issues for personal attacks, pressure, spam, or unsupported claims about project
+maturity.
+
 ## Contribution Style
 
 Good contributions usually include:
@@ -24,7 +49,21 @@ Good contributions usually include:
 
 Code review is about improving the work, not winning an argument.
 
-Reviewers should be specific, technical, and respectful. Authors should be open to revision without being expected to accept vague or unsupported criticism.
+Reviewers should be specific, technical, and respectful. Authors should be open to revision without
+being expected to accept vague or unsupported criticism.
+
+## Pull Requests
+
+Pull requests should include:
+
+- summary of the change;
+- reason for the change;
+- tests, screenshots, serial logs, or manual verification;
+- documentation updates when needed;
+- known limitations or follow-up work.
+
+Large pull requests may be split before review. Risky changes in kernels, drivers, networking,
+cryptography, automation, AI, or quantum-control paths need extra verification notes.
 
 ## Project Maturity
 
