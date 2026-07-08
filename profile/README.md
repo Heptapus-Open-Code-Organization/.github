@@ -17,6 +17,9 @@ Please read these before opening issues, pull requests, discussions, or project 
 | [Code of Conduct](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/CODE_OF_CONDUCT.md) | Community behavior, engineering ethics, unacceptable conduct, and enforcement. |
 | [Contributing Guide](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/CONTRIBUTING.md) | How to start work, open issues, submit pull requests, and propose projects. |
 | [Security Policy](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/SECURITY.md) | How to report vulnerabilities and handle security-sensitive work. |
+| [Operations Handbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/OPERATIONS.md) | How the organization runs day to day. |
+| [Governance](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/GOVERNANCE.md) | Roles, decisions, membership, project admission, and archival. |
+| [Maintainer Playbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/MAINTAINER_PLAYBOOK.md) | Practical review, triage, invitation, and conduct workflows. |
 
 Every repository may also have its own README, license, contribution notes, issue templates, and
 architecture documents. Repository-specific rules override the organization defaults when they are
@@ -117,6 +120,13 @@ Maintainers are expected to:
 - protect contributors from harassment or bad-faith review;
 - respect licenses and attribution;
 - avoid merging hidden risky behavior, especially in infrastructure-like code.
+
+Operational details live in:
+
+- [Operations Handbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/OPERATIONS.md)
+- [Project Lifecycle](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/PROJECT_LIFECYCLE.md)
+- [Membership Review](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/MEMBERSHIP_REVIEW.md)
+- [Incident Response](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/INCIDENT_RESPONSE.md)
 
 ## Contact
 

@@ -1,0 +1,96 @@
+# Governance
+
+Heptapus Open Code Organization is organized around maintainership, transparent review, and
+project-level autonomy.
+
+## Roles
+
+### Organization Owner
+
+The organization owner is responsible for:
+
+- GitHub organization settings;
+- repository creation and transfer approval;
+- team/member permissions;
+- final decisions when maintainers cannot resolve a governance issue;
+- protecting the organization from abuse, license risk, or security risk.
+
+### Organization Maintainer
+
+Organization maintainers help operate the whole organization:
+
+- review membership applications;
+- review project proposals;
+- maintain organization policies and issue templates;
+- coordinate labels, boards, and recurring operations;
+- enforce the Code of Conduct when needed.
+
+### Project Maintainer
+
+Project maintainers run a specific repository:
+
+- review issues and PRs;
+- maintain roadmap and documentation;
+- keep project maturity claims honest;
+- define repository-specific contribution rules;
+- escalate security or conduct concerns.
+
+### Contributor
+
+Contributors participate through issues, PRs, docs, testing, design, research, security review, or
+project discussion.
+
+## Decision Process
+
+Small changes can be decided by the relevant project maintainer.
+
+Large changes should have:
+
+- an issue or proposal;
+- clear scope and non-goals;
+- acceptance criteria;
+- verification plan;
+- maintainer agreement;
+- architecture notes or ADRs when long-term design is affected.
+
+## Membership Decisions
+
+Membership applications are reviewed through GitHub issues in the `.github` repository.
+
+Review outcomes:
+
+- `accepted`: applicant can be invited or assigned a contributor path;
+- `declined`: application is not accepted now;
+- `needs-private-followup`: public issue is insufficient or private context is needed;
+- `needs-review`: waiting for maintainer action.
+
+Declines should be brief and respectful. Maintainers do not need to debate private risk decisions
+in public.
+
+## Project Admission
+
+A project can be accepted when it has:
+
+- a clear purpose;
+- license clarity;
+- maintainers;
+- expected users;
+- contribution model;
+- maturity/status statement;
+- security and safety considerations;
+- fit with the organization mission.
+
+Accepted projects should start with the required repository baseline in `OPERATIONS.md`.
+
+## Removal / Archival
+
+A project may be archived, transferred, or removed from active status if:
+
+- it has no maintainer capacity;
+- its license or ownership is unclear;
+- it violates organization policy;
+- it creates unmanaged security or safety risk;
+- it no longer fits the organization mission.
+
+Archived projects should state why they are archived and whether future maintainers are welcome.
+

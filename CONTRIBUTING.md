@@ -32,6 +32,13 @@ Maintainers reviewing applications should consider:
 - security and safety considerations;
 - current maintainer capacity.
 
+Detailed operational review rules:
+
+- [Membership Review](docs/MEMBERSHIP_REVIEW.md)
+- [Project Lifecycle](docs/PROJECT_LIFECYCLE.md)
+- [Maintainer Playbook](docs/MAINTAINER_PLAYBOOK.md)
+- [Governance](docs/GOVERNANCE.md)
+
 ## Finding Work
 
 Start with issues labeled `good first issue`, `help wanted`, `type:wp`, or `type:gap`.
