@@ -60,6 +60,10 @@ Use least privilege:
 - prefer teams over direct individual permissions for repeated roles;
 - remove stale access when people leave a project.
 
+Use `docs/ACCESS_CONTROL.md` for access requests and offboarding.
+Use `docs/REPOSITORY_CREATION.md` before creating repositories.
+Use `docs/DECISION_PROCESS.md` for policy or governance changes.
+
 ## Conduct Issues
 
 For Code of Conduct concerns:
@@ -70,4 +74,3 @@ For Code of Conduct concerns:
 4. Apply a proportionate response.
 5. Keep public explanations brief and respectful.
 6. Do not expose private reporter details.
-

@@ -6,3 +6,6 @@ contact_links:
   - name: Security Policy
     url: https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/SECURITY.md
     about: Report security-sensitive concerns through the security process.
+  - name: Access Control Policy
+    url: https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/ACCESS_CONTROL.md
+    about: Read how organization and repository access is granted and removed.

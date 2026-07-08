@@ -1,0 +1,45 @@
+name: Governance proposal
+description: Propose a policy, governance, access, or process change.
+title: "[governance] "
+labels: ["governance", "needs-review"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What governance or process problem are we solving?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks / trade-offs
+    validations:
+      required: true
+  - type: textarea
+    id: rollout
+    attributes:
+      label: Rollout plan
+      description: Docs, settings, teams, labels, or repositories that need changes.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Agreements
+      options:
+        - label: I have checked existing organization docs/issues for related decisions.
+          required: true

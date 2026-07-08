@@ -54,6 +54,9 @@ The initial organization teams are:
 Access should remain least-privilege. Public issue and pull request contribution does not require
 organization membership.
 
+Organization defaults are configured for least privilege: default repository permission is `none`,
+and members cannot create repositories unless an owner/maintainer creates or delegates that path.
+
 ## Decision Process
 
 Small changes can be decided by the relevant project maintainer.
@@ -66,6 +69,22 @@ Large changes should have:
 - verification plan;
 - maintainer agreement;
 - architecture notes or ADRs when long-term design is affected.
+
+Use `docs/DECISION_PROCESS.md` for governance proposals, policy changes, and decision logging.
+Important organization-level decisions should be recorded in `docs/DECISION_LOG.md`.
+
+## Access Control
+
+Access follows least privilege and should be granted through teams where possible.
+
+Use `docs/ACCESS_CONTROL.md` for:
+
+- access request flow;
+- team permission expectations;
+- offboarding;
+- recommended organization security settings.
+
+Use `docs/REPOSITORY_CREATION.md` before creating or transferring new repositories.
 
 ## Membership Decisions
 

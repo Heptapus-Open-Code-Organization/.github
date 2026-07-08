@@ -20,6 +20,7 @@ Please read these before opening issues, pull requests, discussions, or project 
 | [Operations Handbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/OPERATIONS.md) | How the organization runs day to day. |
 | [Governance](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/GOVERNANCE.md) | Roles, decisions, membership, project admission, and archival. |
 | [Maintainer Playbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/MAINTAINER_PLAYBOOK.md) | Practical review, triage, invitation, and conduct workflows. |
+| [Access Control](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/ACCESS_CONTROL.md) | Least-privilege access, teams, access requests, and offboarding. |
 
 Every repository may also have its own README, license, contribution notes, issue templates, and
 architecture documents. Repository-specific rules override the organization defaults when they are
@@ -33,6 +34,8 @@ You can start the organization-level process directly on GitHub:
 |---|---|
 | Apply to join as a contributor, maintainer, writer, tester, designer, researcher, or security reviewer | [Open a membership application](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=membership_application.yml) |
 | Propose a new project for the organization | [Open a project proposal](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=project_proposal.yml) |
+| Request repository or team access | [Open an access request](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=access_request.yml) |
+| Propose a governance or policy change | [Open a governance proposal](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=governance_proposal.yml) |
 | Ask a community/process question | [Open a community request](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=community_request.yml) |
 
 Applications and proposals are reviewed in public by default. Do not include private information,
@@ -130,6 +133,10 @@ Operational details live in:
 - [Onboarding](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/ONBOARDING.md)
 - [Incident Response](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/INCIDENT_RESPONSE.md)
 - [Security Response](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/SECURITY_RESPONSE.md)
+- [Access Control](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/ACCESS_CONTROL.md)
+- [Decision Process](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/DECISION_PROCESS.md)
+- [Decision Log](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/DECISION_LOG.md)
+- [Repository Creation](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/REPOSITORY_CREATION.md)
 
 ## Contact
 
