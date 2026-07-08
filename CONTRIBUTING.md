@@ -10,6 +10,28 @@ Thank you for wanting to contribute. This organization is for people who want to
 4. For architectural changes, read existing design notes or ADRs first.
 5. Ask before starting a large rewrite.
 
+## Joining The Organization
+
+Organization-level participation is handled through GitHub issues in the `.github` profile repo.
+
+- Use the membership application form to apply as a contributor, maintainer, writer, tester,
+  designer, researcher, or security reviewer.
+- Use the project proposal form to suggest a new project under the organization.
+- Use the community request form for process questions or improvements.
+
+Applications are public by default. Do not include private information, credentials, private
+contact details, or anything you would not want visible on GitHub. If private context is needed,
+say so and a maintainer can continue that part privately.
+
+Maintainers reviewing applications should consider:
+
+- alignment with the organization mission;
+- respect for the Code of Conduct;
+- clarity about intended contribution areas;
+- relevant experience or willingness to learn;
+- security and safety considerations;
+- current maintainer capacity.
+
 ## Finding Work
 
 Start with issues labeled `good first issue`, `help wanted`, `type:wp`, or `type:gap`.

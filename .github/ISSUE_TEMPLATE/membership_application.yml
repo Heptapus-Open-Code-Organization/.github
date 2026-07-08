@@ -1,0 +1,80 @@
+name: Membership application
+description: Apply to join Heptapus Open Code Organization as a contributor or maintainer.
+title: "[membership] "
+labels: ["membership", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in Heptapus Open Code Organization.
+
+        Please do not include private information you would not want to be public. If your
+        application needs private context, say so and a maintainer can continue the conversation
+        through a private channel.
+  - type: input
+    id: github_profile
+    attributes:
+      label: GitHub profile
+      description: Link to your GitHub profile.
+      placeholder: "https://github.com/your-username"
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: What kind of participation are you interested in?
+      options:
+        - Contributor
+        - Maintainer
+        - Documentation / technical writing
+        - Design / UX
+        - Research / architecture
+        - Testing / QA
+        - Security review
+        - Project proposer
+    validations:
+      required: true
+  - type: textarea
+    id: background
+    attributes:
+      label: Background
+      description: Tell us briefly about your experience, interests, or what you want to learn.
+      placeholder: "I am interested in systems programming, Rust, kernels, documentation..."
+    validations:
+      required: true
+  - type: textarea
+    id: contribution_area
+    attributes:
+      label: Contribution areas
+      description: Which repositories, topics, or issue areas would you like to help with?
+      placeholder: "QOS networking, docs, UI polish, tests, hardware validation..."
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Relevant links
+      description: Optional links to projects, PRs, writing, research, demos, or portfolios.
+      placeholder: "- https://github.com/...\n- https://..."
+    validations:
+      required: false
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Agreements
+      options:
+        - label: I have read the organization Code of Conduct.
+          required: true
+        - label: I understand that each repository may have its own license and contribution rules.
+          required: true
+        - label: I will be honest about project maturity, test results, and limitations.
+          required: true
+        - label: I will not submit malicious code, hidden backdoors, credential theft, or unsafe hidden behavior.
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Optional context for maintainers.
+    validations:
+      required: false

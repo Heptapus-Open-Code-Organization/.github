@@ -22,6 +22,21 @@ Every repository may also have its own README, license, contribution notes, issu
 architecture documents. Repository-specific rules override the organization defaults when they are
 more precise.
 
+## Apply / Participate
+
+You can start the organization-level process directly on GitHub:
+
+| Action | Link |
+|---|---|
+| Apply to join as a contributor, maintainer, writer, tester, designer, researcher, or security reviewer | [Open a membership application](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=membership_application.yml) |
+| Propose a new project for the organization | [Open a project proposal](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=project_proposal.yml) |
+| Ask a community/process question | [Open a community request](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=community_request.yml) |
+
+Applications and proposals are reviewed in public by default. Do not include private information,
+credentials, private emails, phone numbers, or anything you would not want indexed publicly. If a
+case needs private context, say so in the issue and a maintainer can move that part to a private
+channel.
+
 ## What We Aim To Do
 
 - Build open-code projects with clear architecture, documentation, and reproducible workflows.
@@ -77,12 +92,16 @@ More projects will be added as the organization grows.
 
 ## How To Join The Work
 
-1. Pick a repository and read its README.
-2. Check its license and maturity notes.
-3. Look for issues labeled `good first issue`, `help wanted`, `type:wp`, or project-specific
+1. Read the [Code of Conduct](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/CODE_OF_CONDUCT.md)
+   and [Contributing Guide](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/CONTRIBUTING.md).
+2. Open a [membership application](https://github.com/Heptapus-Open-Code-Organization/.github/issues/new?template=membership_application.yml)
+   if you want to join the organization.
+3. Pick a repository and read its README.
+4. Check its license and maturity notes.
+5. Look for issues labeled `good first issue`, `help wanted`, `type:wp`, or project-specific
    work-package labels.
-4. Comment before taking a large issue so maintainers can confirm scope.
-5. Open a focused pull request with verification notes.
+6. Comment before taking a large issue so maintainers can confirm scope.
+7. Open a focused pull request with verification notes.
 
 If you want to propose a new project under this organization, prepare a short brief: purpose,
 license, maintainers, expected users, current status, security considerations, and what kind of

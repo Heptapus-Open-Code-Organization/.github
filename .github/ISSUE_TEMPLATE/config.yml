@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Code of Conduct
+    url: https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Read the organization community and engineering ethics rules.
+  - name: Security Policy
+    url: https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/SECURITY.md
+    about: Report security-sensitive concerns through the security process.

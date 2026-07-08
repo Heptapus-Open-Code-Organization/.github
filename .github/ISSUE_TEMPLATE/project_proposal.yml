@@ -1,0 +1,92 @@
+name: Project proposal
+description: Propose a new project for Heptapus Open Code Organization.
+title: "[project] "
+labels: ["project-proposal", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to propose a project that could live under Heptapus Open Code Organization.
+        A proposal does not guarantee acceptance; maintainers will review scope, license, safety,
+        maintainership, and fit with the organization mission.
+  - type: input
+    id: project_name
+    attributes:
+      label: Project name
+      placeholder: "Project name"
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What problem does this project solve, and why should it exist?
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Expected users
+      description: Who would use or learn from this project?
+    validations:
+      required: true
+  - type: dropdown
+    id: maturity
+    attributes:
+      label: Current maturity
+      options:
+        - Idea only
+        - Prototype
+        - Usable experiment
+        - Actively developed
+        - Mature / maintained
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Intended license
+      description: State the intended license or say if you need help choosing one.
+      placeholder: "MIT, Apache-2.0, GPL-3.0, PolyForm Noncommercial, undecided..."
+    validations:
+      required: true
+  - type: textarea
+    id: maintainers
+    attributes:
+      label: Maintainers
+      description: Who will maintain the project?
+    validations:
+      required: true
+  - type: textarea
+    id: contribution_model
+    attributes:
+      label: Contribution model
+      description: What kind of contributions are expected?
+      placeholder: "Code, docs, tests, design, research, hardware validation..."
+    validations:
+      required: true
+  - type: textarea
+    id: safety_security
+    attributes:
+      label: Security or safety considerations
+      description: Note any risks, sensitive areas, dependencies, credentials, hardware risks, or misuse concerns.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Existing links
+      description: Existing repo, demo, docs, paper, design notes, or related work.
+    validations:
+      required: false
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Agreements
+      options:
+        - label: The project will clearly state its license.
+          required: true
+        - label: The project will clearly state its maturity and limitations.
+          required: true
+        - label: The project will follow the organization Code of Conduct.
+          required: true
