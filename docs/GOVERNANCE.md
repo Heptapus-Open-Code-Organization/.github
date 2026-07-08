@@ -40,6 +40,20 @@ Project maintainers run a specific repository:
 Contributors participate through issues, PRs, docs, testing, design, research, security review, or
 project discussion.
 
+## Initial GitHub Teams
+
+The initial organization teams are:
+
+| Team | Purpose | Default repository access |
+|---|---|---|
+| `Organization Maintainers` | Organization governance, membership, policies, and operations. | `maintain` on `.github`. |
+| `QOS Maintainers` | Maintainers responsible for the QOS repository. | `maintain` on `QOS`. |
+| `Contributors` | General contributors who need direct contribution access after trust is established. | `push` on `QOS` when appropriate. |
+| `Security Reviewers` | Trusted reviewers for security-sensitive reports and risky changes. | `triage` on `.github` and `QOS`. |
+
+Access should remain least-privilege. Public issue and pull request contribution does not require
+organization membership.
+
 ## Decision Process
 
 Small changes can be decided by the relevant project maintainer.
@@ -93,4 +107,3 @@ A project may be archived, transferred, or removed from active status if:
 - it no longer fits the organization mission.
 
 Archived projects should state why they are archived and whether future maintainers are welcome.
-
