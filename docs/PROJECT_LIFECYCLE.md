@@ -28,6 +28,8 @@ Maintainers review:
 - security risk;
 - overlap with existing projects.
 
+Use `docs/PROJECT_ACCEPTANCE_CHECKLIST.md` for the detailed acceptance checklist.
+
 Outcomes:
 
 - accepted;
@@ -48,6 +50,9 @@ Accepted projects should receive:
 - labels;
 - roadmap or first milestone;
 - maintainer ownership note.
+
+Open the bootstrap issues listed in `docs/PROJECT_ACCEPTANCE_CHECKLIST.md` when the repository is
+created or transferred.
 
 ## 4. Active Development
 
@@ -79,4 +84,3 @@ Archive when:
 - risk is too high for available maintainer capacity.
 
 Archived repositories should keep a final status note.
-

@@ -24,6 +24,7 @@ This document covers security, safety, and conduct incidents at the organization
 ## Security Vulnerabilities
 
 Follow `SECURITY.md`.
+Use `docs/SECURITY_RESPONSE.md` for detailed severity, secret-leak, fix, and disclosure steps.
 
 For public issues containing exploit details or secrets:
 
@@ -56,4 +57,3 @@ After resolution, document:
 - whether policy/docs need updates.
 
 Avoid publishing private reporter information.
-

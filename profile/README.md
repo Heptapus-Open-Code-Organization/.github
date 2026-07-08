@@ -125,9 +125,11 @@ Operational details live in:
 
 - [Operations Handbook](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/OPERATIONS.md)
 - [Project Lifecycle](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/PROJECT_LIFECYCLE.md)
+- [Project Acceptance Checklist](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/PROJECT_ACCEPTANCE_CHECKLIST.md)
 - [Membership Review](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/MEMBERSHIP_REVIEW.md)
 - [Onboarding](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/ONBOARDING.md)
 - [Incident Response](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/INCIDENT_RESPONSE.md)
+- [Security Response](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/docs/SECURITY_RESPONSE.md)
 
 ## Contact
 

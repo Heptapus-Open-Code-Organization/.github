@@ -20,6 +20,10 @@ If no repository-specific process exists, contact the organization owner or main
 
 Maintainers should acknowledge reports, investigate, document the fix, and credit reporters when appropriate.
 
+Maintainers should use the operational process in
+[`docs/SECURITY_RESPONSE.md`](docs/SECURITY_RESPONSE.md) for severity triage, secret leaks, fix
+handling, and disclosure summaries.
+
 ## Experimental Projects
 
 Some repositories may be prototypes or research systems. Experimental status does not remove the need for responsible disclosure, but it may affect severity, release timelines, and support expectations.
