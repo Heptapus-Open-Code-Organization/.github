@@ -1,6 +1,9 @@
 # Heptapus Open Code Organization
 
-<img src="https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/QOS/main/heptapus_logo_primary.png" alt="Heptapus Open Code Organization" width="220">
+<p>
+  <img src="https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/QOS/main/heptapus_logo_primary.png" alt="Heptapus Group" width="180">
+  <img src="https://raw.githubusercontent.com/Heptapus-Open-Code-Organization/.github/main/profile/assets/heptapus-open-code-org-logo.png" alt="Heptapus Open Code Organization" width="180">
+</p>
 
 Heptapus Open Code Organization exists to gather people who want to build, study, improve, and
 maintain open-code systems.
@@ -100,6 +103,7 @@ avatar is the primary profile mark.
 
 Initial brand assets:
 
+- [Open Code Organization logo](https://github.com/Heptapus-Open-Code-Organization/.github/blob/main/profile/assets/heptapus-open-code-org-logo.png)
 - [Primary logo](https://github.com/Heptapus-Open-Code-Organization/QOS/blob/main/heptapus_logo_primary.png)
 - [Primary black logo](https://github.com/Heptapus-Open-Code-Organization/QOS/blob/main/heptapus_logo_primary_black.png)
 
