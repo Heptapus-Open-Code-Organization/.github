@@ -59,6 +59,8 @@ The organization runs through GitHub-first workflows:
 - Check whether any project should be archived, revived, or re-scoped.
 - Publish a short organization status note if there is meaningful progress.
 
+Use `docs/STATUS_UPDATE_TEMPLATE.md` for status notes.
+
 ## Required Repository Baseline
 
 Each organization repository should have:
@@ -74,6 +76,8 @@ Each organization repository should have:
 - maintainer list or ownership note;
 - verification instructions.
 
+Use `docs/ONBOARDING.md` when accepting new members.
+
 ## Operational Backlog
 
 Track organization operations in the `.github` repository with labels:
@@ -85,4 +89,3 @@ Track organization operations in the `.github` repository with labels:
 - `security`: security policy and incidents;
 - `docs`: organization documentation;
 - `needs-review`: requires maintainer action.
-
